@@ -21,5 +21,5 @@ This is a simple game that works on the browser. Its a simple HTML5 page that in
 
 ## ==============SAMPLE GAME- Player 1 Wins the Game!==============
 
-![Dice sample game](https://github.com/martinsewere/pig-game/blob/master/md.png)
+![Dice sample game](https://github.com/martinsewere/pig-game/blob/master/md1.png)
 ![Dice game winner](https://github.com/martinsewere/pig-game/blob/master/winner.png)
