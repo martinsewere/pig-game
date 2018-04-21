@@ -10,5 +10,5 @@ This is a simple game that works on the browser. Its a simple HTML5 page that in
 
 ==========================================================================
 ==========================================================================
-==========================================================================
+
 ![Dice 6](https://github.com/martinsewere/pig-game/blob/master/dice-6.png)
