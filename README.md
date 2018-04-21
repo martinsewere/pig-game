@@ -15,3 +15,9 @@ This is a simple game that works on the browser. Its a simple HTML5 page that in
 ![Dice 3](https://github.com/martinsewere/pig-game/blob/master/dice-3.png)
 ![Dice 4](https://github.com/martinsewere/pig-game/blob/master/dice-4.png)
 ![Dice 5](https://github.com/martinsewere/pig-game/blob/master/dice-5.png)
+
+
+==========================================================================
+SAMPLE GAME- Player 2 Wins the Game!
+
+![Dice sample game](https://github.com/martinsewere/pig-game/blob/master/md.png)
