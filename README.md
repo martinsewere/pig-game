@@ -1,7 +1,7 @@
 # pig-game
 This is a simple game that works on the browser. Its a simple HTML5 page that interracts with the browser using javascript
 
-#GAME RULES:
+## GAME RULES:
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he wishes. Each result gets added to his ROUND score
 - BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn
@@ -18,6 +18,6 @@ This is a simple game that works on the browser. Its a simple HTML5 page that in
 
 
 ===================================================================================================
-SAMPLE GAME- Player 2 Wins the Game!===========
+## SAMPLE GAME- Player 2 Wins the Game!===========
 
 ![Dice sample game](https://github.com/martinsewere/pig-game/blob/master/md.png)
