@@ -7,3 +7,4 @@ This is a simple game that works on the browser. Its a simple HTML5 page that in
 - BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLOBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
+![Dice 6](https://github.com/martinsewere/pig-game/blob/master/dice-6.png)
